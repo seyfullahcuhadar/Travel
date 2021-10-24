@@ -20,7 +20,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="TourLists\Commands" />
+      <Folder Include="TourPackages\Queries" />
     </ItemGroup>
 
 </Project>
