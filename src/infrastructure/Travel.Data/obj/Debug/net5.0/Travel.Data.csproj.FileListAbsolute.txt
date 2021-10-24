@@ -1,0 +1,17 @@
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/bin/Debug/net5.0/Travel.Data.deps.json
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/bin/Debug/net5.0/Travel.Data.dll
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/bin/Debug/net5.0/ref/Travel.Data.dll
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/bin/Debug/net5.0/Travel.Data.pdb
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/bin/Debug/net5.0/Travel.Application.dll
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/bin/Debug/net5.0/Travel.Domain.dll
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/bin/Debug/net5.0/Travel.Application.pdb
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/bin/Debug/net5.0/Travel.Domain.pdb
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/obj/Debug/net5.0/Travel.Data.csproj.AssemblyReference.cache
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/obj/Debug/net5.0/Travel.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/obj/Debug/net5.0/Travel.Data.AssemblyInfoInputs.cache
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/obj/Debug/net5.0/Travel.Data.AssemblyInfo.cs
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/obj/Debug/net5.0/Travel.Data.csproj.CoreCompileInputs.cache
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/obj/Debug/net5.0/Travel.Data.csproj.CopyComplete
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/obj/Debug/net5.0/Travel.Data.dll
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/obj/Debug/net5.0/ref/Travel.Data.dll
+/Users/seyfullahcuhadar/Desktop/Travel/src/infrastructure/Travel.Data/obj/Debug/net5.0/Travel.Data.pdb

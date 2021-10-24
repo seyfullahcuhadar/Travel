@@ -1,0 +1,12 @@
+/Users/seyfullahcuhadar/Desktop/Travel/src/core/Travel.Domain/bin/Debug/net5.0/Travel.Domain.deps.json
+/Users/seyfullahcuhadar/Desktop/Travel/src/core/Travel.Domain/bin/Debug/net5.0/Travel.Domain.dll
+/Users/seyfullahcuhadar/Desktop/Travel/src/core/Travel.Domain/bin/Debug/net5.0/ref/Travel.Domain.dll
+/Users/seyfullahcuhadar/Desktop/Travel/src/core/Travel.Domain/bin/Debug/net5.0/Travel.Domain.pdb
+/Users/seyfullahcuhadar/Desktop/Travel/src/core/Travel.Domain/obj/Debug/net5.0/Travel.Domain.csproj.AssemblyReference.cache
+/Users/seyfullahcuhadar/Desktop/Travel/src/core/Travel.Domain/obj/Debug/net5.0/Travel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyfullahcuhadar/Desktop/Travel/src/core/Travel.Domain/obj/Debug/net5.0/Travel.Domain.AssemblyInfoInputs.cache
+/Users/seyfullahcuhadar/Desktop/Travel/src/core/Travel.Domain/obj/Debug/net5.0/Travel.Domain.AssemblyInfo.cs
+/Users/seyfullahcuhadar/Desktop/Travel/src/core/Travel.Domain/obj/Debug/net5.0/Travel.Domain.csproj.CoreCompileInputs.cache
+/Users/seyfullahcuhadar/Desktop/Travel/src/core/Travel.Domain/obj/Debug/net5.0/Travel.Domain.dll
+/Users/seyfullahcuhadar/Desktop/Travel/src/core/Travel.Domain/obj/Debug/net5.0/ref/Travel.Domain.dll
+/Users/seyfullahcuhadar/Desktop/Travel/src/core/Travel.Domain/obj/Debug/net5.0/Travel.Domain.pdb
